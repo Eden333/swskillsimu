@@ -1,36 +1,39 @@
-# 07.June.2022
+# 16.November 2024
+- Fixed Iris Skill Previews for: Frenzy, Awakening and Desire
+
+# 07.June 2022
 - Changed the look of the Skill Slot Assignment to match ingame's look (I never realized it like that)
 - Updated the Character Selection Banners for [Stella](https://eden333.github.io/swskillsimu/Stella), [Jin](https://eden333.github.io/swskillsimu/Jin) & [Iris](https://eden333.github.io/swskillsimu/Iris) (Thanks to Myleia ❤)
 
-# 02.June.2022
+# 02.June 2022
 - Added [Jin's](https://eden333.github.io/swskillsimu/Jin) Lvl 72 Skill Damage numbers for level 1
 - Changed the [CHANGELOG](https://github.com/Eden333/swskillsimu/blob/master/CHANGELOG.md) to Look a bit nicer & added Hyperlinks
 - Fixed a typo on [Haru's](https://eden333.github.io/swskillsimu/Haru) Lvl 42 Ext. Description
 
-# 27.May.2022    
+# 27.May 2022    
 - Changed the Japanese server to Season 2 behavior.
 
-# 23.May.2022    
+# 23.May 2022    
 - Added [Erwin's](https://eden333.github.io/swskillsimu/Erwin) Lvl 72 Skill Damage numbers for level 1 (only [Jin](https://eden333.github.io/swskillsimu/Jin) missing now)
 
-# 17.May.2022    
+# 17.May 2022    
 - Fixed [Jin's](https://eden333.github.io/swskillsimu/Jin) Frenzy Icon not showing
 - Fixed [Haru's](https://eden333.github.io/swskillsimu/Haru) Bladequake + Extention Icon not showing
 - Fixed [Iris's](https://eden333.github.io/swskillsimu/Iris) Pulse Fire right Extension Icon not showing
 - Changed [Haru's](https://eden333.github.io/swskillsimu/Haru) Arena Rush Skillinfo to match ingame
 
-# 15.May.2022    
+# 15.May 2022    
 - Fixed 42 Skill's Extension causing the Korean SP amount to be "NaN"
 
-# 14.May.2022    
+# 14.May 2022    
 - Fixed [Ephnel's](https://eden333.github.io/swskillsimu/Ephnel) AirBurst left Extension preview on .webm
 - Fixed [Ephnel's](https://eden333.github.io/swskillsimu/Ephnel) Sonic Boom Extension, Spear Dance Extension & Mambas Coil left Extionsion info to match ingame numbers.
 
-# 10.May.2022    
+# 10.May 2022    
 - Added & changed individual art, description & color for each Characters link preview
                       (if you post the link somewhere you will see it)
 
-# 8.May.2022
+# 8.May 2022
 - Fixed the Character selction (looks better on phone now)
 - Added overall Mobile compatibility
 - Added Bootstrap4 toggle switch to the Dependencies (Might be useful later)
@@ -58,7 +61,7 @@
                            Thanks to everyone who provided me with the Level 72 Skill infos!
                                      As always, if you find any bugs, let me know!
 
-# 20.November.2021   
+# 20.November 2021   
 - Translated [Nabi's](https://eden333.github.io/swskillsimu/Nabi) & [Chii's](https://eden333.github.io/swskillsimu/Chii) whole Skill Page
 - Fixed [Chii's](https://eden333.github.io/swskillsimu/Chii) "Tripple Arrow" Skillpreview not showing
 - Fixed all Skills for Nabi & Chii as good as possible to be ready for upcoming updates immediately
@@ -80,14 +83,14 @@
     If there are any bugs, errors or typos let me know. Next update I'll add descriptions to Ephnel.
     I hope you guys like the redesign, feel free to give me feedback on discord.
 
-# 18.October.2021   
+# 18.October 2021   
 - Added new ~~*old*~~ [Erwin](https://eden333.github.io/swskillsimu/Erwin) Skill:
   - Lvl 28 Skill: Sprinter -> Chain Bombing
   - Ext. Lvl 44: SG recovery -> Last Bombing
 - Added/Changed some Skill Descriptions on [Erwin](https://eden333.github.io/swskillsimu/Erwin)
 - Changed the tooltip width from 300px -> 344px (will see if it's fine like this)
 
-# 01.October.2021   
+# 01.October 2021   
 - Added new reworked [Iris](https://eden333.github.io/swskillsimu/Iris) Skills:
   - Lvl 6 Skill:  Sprial Pierce  -> Fortress Cannon
   - Ext. Lvl 22:             Gale ->  Quick Charge
@@ -96,21 +99,21 @@
   
   ### (The translations are a bit ***wonky*** so if anyone has a better translated one, please let me know)
 
-# 27.September.2021 
+# 27.September 2021 
 - Fixed/Added some minor translations to [Nabi](https://eden333.github.io/swskillsimu/Nabi)/ & [Stella](https://eden333.github.io/swskillsimu/Stella) (More to follow)
 - Changed [Ephnel's](https://eden333.github.io/swskillsimu/Ephnel) name
 
-# 07.September.2021 
+# 07.September 2021 
 - Added 5th Skill point to eveyones Lvl62 Skill besides [Stella](https://eden333.github.io/swskillsimu/Stella) (Must have overlooked it)
 - Fixed/Added some minor translations to [Nabi](https://eden333.github.io/swskillsimu/Nabi) (More to follow)
 
-# 05.August.2021    
+# 05.August 2021    
 - Changed aspect ratio for [Stella's](https://eden333.github.io/swskillsimu/Stella) Skill previews from 1:1 -> 4:3
 ## Authors note:
       Now that Global has the reworked Stella, I'll take a look on how those translations will be
       and will most likely end up using those instead. Already did some work on Nabi's page but not close to finish.
 
-# 12.July.2021      
+# 12.July 2021      
 - Increased Max Level to 76 (max SP now 173)
 - Increased [Stella's](https://eden333.github.io/swskillsimu/Stella) Phantom Release Extenmsion from 1 -> 3
 - Added Level 62 Extention from 4 -> 5 (3SP at level 74)
@@ -124,7 +127,7 @@
     If anybody likes to help out, Add/Message me on Discord (Eden~♡#2724), that's where I respond the quickest.
                              
                              
-# 02.January.2021
+# 02.January 2021
 - Added [Lee Nabi](https://eden333.github.io/swskillsimu/Nabi) (thanks to Myleia for the amazing Banner and everyone who provided me with the correct stats.)
 - Fixed [Ephnel's](https://eden333.github.io/swskillsimu/Ephnel) "Mambas Coil & Debris" Skills to being assignable now (thanks to Asher)
 - Re-added/updated all Skill preview videos with better quality ([Lily](https://eden333.github.io/swskillsimu/Lily) rework)
@@ -134,22 +137,22 @@
 - Cleaned out several files that weren't used
 - Changed site preview image and favicon
 
-# 29.July.2020      
+# 29.July 2020      
 - Added [Ephnel](https://eden333.github.io/swskillsimu/Ephnel)
 
-# 24.June.2020      
+# 24.June 2020      
 - Increased Max Level to 72
 - Added New Ultimate Extensions (level 42 Skills)
 - Added Desire Selection
 
-# 17.May.2020       
+# 17.May 2020       
 - Added Level 62 Skills
 
-# 15.May.2020       
+# 15.May 2020       
 - Switched to New Character Selection (Added [Ephnel](https://eden333.github.io/swskillsimu/Ephnel) to the selection screen)
 
-# 13.May.2020       
+# 13.May 2020       
 - Added [Chii](https://eden333.github.io/swskillsimu/Chii) (not fully translated yet since GF doesn't have her Advancement yet)
 
-# 10.May.2020
+# 10.May 2020
 - forked from [Leayal](https://github.com/Leayal) (Base)
