@@ -25,7 +25,7 @@
       "Icon": "../assets/SkillIcons/Iris/Skill01_HammerCrash.png",
       "Levels": {
         "0": {
-          "Description": "Swings the hammer to attack",
+          "Description": "Attack the enemy with the Hammer Stol.",
           "Effect": "",
           "RequiredLevel": 0,
           "RequiredSP": 0,
@@ -1897,7 +1897,7 @@
           "RequiredSP": 0,
           "ReqSPkr": 0,
           "Preview": {
-            "Video": "../assets/SkillPreviews/Iris/B_Skill_SoulViper.{{auto}}"
+            "Video": "../assets/SkillPreviews/Iris/NSkill1_Frenzy.{{auto}}"
           }
         },
         "1": {
@@ -1927,7 +1927,7 @@
           "RequiredSP": 0,
           "ReqSPkr": 0,
           "Preview": {
-            "Video": "../assets/SkillPreviews/Iris/B_Skill_SoulViper_02.{{auto}}"
+            "Video": "../assets/SkillPreviews/Iris/NSkill2_Awakening.{{auto}}"
           }
         },
         "1": {
@@ -1957,7 +1957,7 @@
           "RequiredSP": 0,
           "ReqSPkr": 0,
           "Preview": {
-            "Video": "../assets/SkillPreviews/Iris/B_Skill_SoulViper_03.{{auto}}"
+            "Video": "../assets/SkillPreviews/Iris/NSkill3_DesireAwakening.{{auto}}"
           }
         },
         "1": {
